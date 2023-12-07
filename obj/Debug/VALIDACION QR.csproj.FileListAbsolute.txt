@@ -1,0 +1,25 @@
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\bin\Debug\VALIDACION QR.exe.config
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\bin\Debug\VALIDACION QR.exe
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\bin\Debug\VALIDACION QR.pdb
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\obj\Debug\VALIDACION QR.csproj.AssemblyReference.cache
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\obj\Debug\VALIDACION QR.csproj.SuggestedBindingRedirects.cache
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\obj\Debug\VALIDACION_QR.Form1.resources
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\obj\Debug\VALIDACION_QR.Properties.Resources.resources
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\obj\Debug\VALIDACION_QR.REGISTRO.resources
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\obj\Debug\VALIDACION QR.csproj.GenerateResource.cache
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\obj\Debug\VALIDACION QR.csproj.CoreCompileInputs.cache
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\obj\Debug\VALIDACION QR.exe
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\obj\Debug\VALIDACION QR.pdb
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\bin\Debug\Base32.dll
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\bin\Debug\Google.Authenticator.dll
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\bin\Debug\Otp.NET.dll
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\bin\Debug\OtpSharp.dll
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\bin\Debug\QRCoder.dll
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\bin\Debug\zxing.dll
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\bin\Debug\zxing.presentation.dll
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\bin\Debug\Google.Authenticator.pdb
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\bin\Debug\OtpSharp.xml
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\bin\Debug\zxing.xml
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\bin\Debug\zxing.presentation.xml
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\obj\Debug\VALIDACION QR.csproj.CopyComplete
+C:\Users\rmelo\OneDrive\Escritorio\Simulador de credito\VALIDACION QR\obj\Debug\VALIDACION_QR.Inicio.resources
